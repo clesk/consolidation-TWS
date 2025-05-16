@@ -1,0 +1,2 @@
+,coef_P,se_P,pval_P,coef_T,se_T,pval_T,coef_Gp,se_Gp,pval_Gp,coef_GpP,se_GpP,pval_GpP,R2,vcov
+1,0.162,0.016,5.50E-23,-0.069,0.024,0.00357,-0.131,0.02,1.90E-10,-3.00E-05,2.00E-05,0.07,0.118,-2.87E-07
